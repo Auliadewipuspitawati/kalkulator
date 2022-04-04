@@ -33,7 +33,7 @@ operators.forEach((operator) => {
     })
 })
 
-const inputOperator = (operator) =>{
+const inputOperator = (operator) => {
     if (calculationOperator === '') {
         prevNumber = currentNumber
     }
